@@ -92,8 +92,9 @@ The dashboard provides insights into:
 To experience the full interactivity of the dashboard:
 
 1. **Download the Power BI dashboard file**  
-   👉 `mobile-sales-dashboard.pbix`  
+  👉 [mobile-sales-dashboard.pbix](dashboard/mobile-sales-dashboard.pbix)  
    - Click **View raw** to start the download.
+   
 
 2. **Open the file in Power BI Desktop**.
 
